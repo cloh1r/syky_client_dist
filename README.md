@@ -6,3 +6,5 @@ Each release carries the client jar, a signed `manifest.json` and its detached s
 The client verifies that signature before installing anything.
 
 Sources are not public.
+
+official website - https://sykyclient.com/?ref=github
